@@ -1,2 +1,1 @@
-# SynapseX-download
-Synapse X Download Page
+<h1 id="synapsex-download">SynapseX-download</h1>
